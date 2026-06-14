@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Rising Wind Lines representing recovery/hope -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M51,52 Q54,42 51,32 T54,18" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M57,52 Q60,42 57,32 T60,18" />
+
+    <!-- Spark Star above the break point -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28 Q54,38 44,38 Q54,38 54,48 Q54,38 64,38 Q54,38 54,28 Z" />
+
+    <!-- Left Snapped Cigarette -->
+    <group
+        android:translateX="42"
+        android:translateY="62"
+        android:rotation="-22">
+        <!-- Filter tip -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M-18,-3 h5 v6 h-5 z" />
+        <!-- Main body with gap indicating texture/brand -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M-11,-3 h11 v6 h-11 z" />
+    </group>
+
+    <!-- Right Snapped Cigarette -->
+    <group
+        android:translateX="66"
+        android:translateY="62"
+        android:rotation="22">
+        <!-- Main body -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M0,-3 h11 v6 h-11 z" />
+        <!-- Burning end tip -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M13,-3 h5 v6 h-5 z" />
+    </group>
+
+</vector>

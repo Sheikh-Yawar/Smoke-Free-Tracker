@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Smoke Free</string>
+    <string-array name="motivational_quotes">
+        <item>Your lungs are beginning to breathe easier. Keep going!</item>
+        <item>Every cigarette not smoked is a victory for your wallet and your heart.</item>
+        <item>The craving will pass whether you smoke or not.</item>
+        <item>You are stronger than any urge. Keep fighting!</item>
+        <item>Not smoking today is the best gift you can give your future self.</item>
+        <item>Your body is clearing out toxins right now. Let it heal.</item>
+        <item>One day at a time, one breath at a time. You have got this.</item>
+        <item>The further you get from your last cigarette, the closer you get to a happier life.</item>
+        <item>Believe you can and you are halfway there.</item>
+        <item>Your health is your true wealth. Invest in yourself!</item>
+        <item>Quitting smoking is a journey of self-love.</item>
+        <item>Suffer the pain of discipline today, or suffer the pain of regret tomorrow.</item>
+        <item>With every smoke-free day, you are reclaiming your freedom.</item>
+        <item>No craving lasts forever. Take deep breaths and hold on.</item>
+        <item>Your tastebuds and sense of smell are coming back to life!</item>
+        <item>Money saved can be spent on real dreams, not smoke.</item>
+        <item>Choose health. Choose life. Choose yourself.</item>
+        <item>You do not need a cigarette to deal with stress. Breathe deep instead.</item>
+        <item>Look at how far you have come. Do not let one moment ruin your progress.</item>
+        <item>You are no longer a slave to nicotine. You are free.</item>
+        <item>Your heart rate is normal, your carbon monoxide is gone. Keep healing!</item>
+        <item>Count your victories, not your cravings.</item>
+        <item>The choice to quit is the choice to live fully.</item>
+        <item>Your future self is thanking you right now.</item>
+        <item>Stay committed to your recovery. It gets easier every single day.</item>
+        <item>Quitting makes your loved ones happy and sets a great example.</item>
+        <item>Every breath you take now is clean, fresh, and healing.</item>
+        <item>Deep breathing resets your focus. Try it now.</item>
+        <item>Tobacco is yesterday\'s cage. Welcome to today\'s freedom.</item>
+        <item>You are a non-smoker. Own your new, healthy identity!</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Smoke Free",
+  "description": "A comprehensive Jetpack Compose tracker to help you stay smoke-free with health milestone tracking, body stats recovery visualizers, and relapse logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
